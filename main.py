@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Print a single line about a small good thing that happened today."""
+"""Make the Judge Smile — one line about a small good thing that happened today."""
 
-LINE = "At 7 a.m. the baker pressed the last warm sesame bun into my hands for free, saying it was too good to throw away — and it smelled like my grandmother's kitchen."
+LINE = "At lunch my neighbor slipped a still-warm peach through the fence, saying the tree made too many — and for a second the whole grey Tuesday tasted like August."
 
 if __name__ == "__main__":
     print(LINE)
