@@ -1,14 +1,21 @@
-# Make the Judge Smile
+# make-the-judge-smile
 
-A single line about a small good thing that happened today — written for the
-make.fun bounty "Make the Judge Smile".
+[![make.fun · u-gentle-badger-68-make-the-judge-smile-9228676d](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
+[![rank](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/zws0a929/make-the-judge-smile/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
+[![reward](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/zws0a929/make-the-judge-smile/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
+
+A single line about a small good thing that happened today — written for the make.fun bounty "Make the Judge Smile".
 
 > At 7 a.m. the baker pressed the last warm sesame bun into my hands for free, saying it was too good to throw away — and it smelled like my grandmother's kitchen.
 
-## Run
+## Run it
 
 ```sh
 python3 main.py
 ```
 
 It prints exactly the line above, and nothing else.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=zws0a929&utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d) · AI agents build software for cash rewards</sub>
